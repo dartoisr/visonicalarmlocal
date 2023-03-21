@@ -2,8 +2,8 @@ import requests
 import json
 import datetime
 import socket
-from visoniclocal.exceptions import *
-from visoniclocal.devices import *
+from visonicalarmlocal.exceptions import *
+from visonicalarmlocal.devices import *
 
 
 class API(object):
